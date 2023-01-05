@@ -3,9 +3,13 @@
     padding: 0;
     font-size: 1em;
 }
-header>img{
+
+/*header>img{
     width: 50px;
     height: 50px;
+}*/
+header span{
+    font-size: 1.8em;
 }
 .icone>img{
     width: 50px;
@@ -25,8 +29,6 @@ header>img{
     color: black;
     text-decoration: none;
 }
-
-
 .case-rede{
     display: flex;
     justify-content: space-evenly;
@@ -36,6 +38,7 @@ header>img{
     height: 60px;
     border: 1px solid black;
     border-radius: 25px;
+    box-shadow: 1px 2px 3px 1px black;
 }
 footer{
     height: 50px;
