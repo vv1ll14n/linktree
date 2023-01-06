@@ -41,7 +41,7 @@ header span{
     box-shadow: 1px 2px 3px 1px black;
 }
 footer{
-    height: 50px;
+    height: 250px;
     background-color: black;
 }
 footer>h2{
